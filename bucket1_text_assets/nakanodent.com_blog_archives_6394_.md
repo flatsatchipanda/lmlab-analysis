@@ -1,0 +1,24 @@
+--- 
+url: https://nakanodent.com/blog/archives/6394/
+method: Trafilatura
+status: OK
+media: [{"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/post-time.svg", "alt_or_title": ""}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/supervision-doctor.webp", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック 院長「中野 浩輔」"}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/supervision-icon.svg", "alt_or_title": ""}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/nakano_blog04.webp", "alt_or_title": ""}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/nakano_blog01.webp", "alt_or_title": ""}]
+common: [{"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/img/site-logo-sp.png", "alt_or_title": "Logo"}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/img/nakanodent-sp-re.png", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/img/nakanodent-sp-en.png", "alt_or_title": "Nakano dental clinic"}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr__logo-mark.svg", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr__image-sp.webp", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr__image-pc.webp", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/map-icon.svg", "alt_or_title": "アクセス"}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/clock-icon.svg", "alt_or_title": "時計"}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/calendar-icon.svg", "alt_or_title": "カレンダー"}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/web-icon.svg", "alt_or_title": "パソコンとメール"}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/tel-brown-icon.svg", "alt_or_title": "電話で相談ご予約・お問い合わせ"}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/time-icon.svg", "alt_or_title": "初診Web予約"}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr-line-icon.svg", "alt_or_title": "LINE"}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr-mail-icon.svg", "alt_or_title": "メール"}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr-formass-icon.svg", "alt_or_title": "メール"}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/sub-gnav-logo-pc-re.svg", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/blog/archives/6394/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/gnav-home.svg", "alt_or_title": "Home"}]
+---
+
+##
+*歯*磨き後におすすめの食べ物
+
+歯科の秘密を大公開！知ってる？歯磨き後に食べるのがオススメな食べ物はコレ！
+
+歯の健康を保つためには、定期的な歯磨きや歯科検診が欠かせませんが、それだけではなく食事の内容も重要です。特に歯磨き後に摂る食べ物には注意が必要です。では、歯磨き後にオススメの食べ物をご紹介しましょう！
+
+まず、歯磨き後に食べるのに適した食べ物の一つは「乳製品」です。チーズやヨーグルトなどの乳製品にはカルシウムやリンが豊富に含まれており、これらの成分は歯の再石灰化に役立ちます。歯を守りながら、おいしく栄養を摂取できるので、歯磨き後の軽食として最適です。
+
+次に挙げるのは「繊維質の食材」です。リンゴやニンジン、セロリなどの繊維質の食材は、噛むことで唾液の分泌を促し、口の中を清潔に保つ効果があります。また、食物繊維は歯垢や食べかすを取り除く役割も果たしてくれるので、歯磨き後に食べると歯の健康維持に役立ちます。
+
+最後におすすめするのは「飲み物」です。ただし、歯磨き後に飲む際には注意が必要です。歯のエナメル質を保護するために、酸性の飲み物や砂糖を含む飲み物は避けるべきです。代わりに、水や緑茶などの無糖の飲み物を選ぶことをおすすめします。これらは口の中を洗浄し、口臭やむし歯の予防にも効果的です。
+
+歯科の秘密を大公開しました！歯磨き後に食べるのがオススメな食べ物は乳製品、繊維質の食材、そして無糖の飲み物です。これらの食べ物を摂ることで、歯の健康をサポートしましょう。しかし、忘れてはならないのが食後の再度の歯磨きです。
+
+やはりこの歯に良い食べ物は歯磨き前に食べましょう！！

@@ -1,0 +1,24 @@
+--- 
+url: https://nakanodent.com/blog/archives/6400/
+method: Trafilatura
+status: OK
+media: [{"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/post-time.svg", "alt_or_title": ""}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/supervision-doctor.webp", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック 院長「中野 浩輔」"}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/supervision-icon.svg", "alt_or_title": ""}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/nakano_blog04.webp", "alt_or_title": ""}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/nakano_blog05.webp", "alt_or_title": ""}]
+common: [{"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/img/site-logo-sp.png", "alt_or_title": "Logo"}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/img/nakanodent-sp-re.png", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/img/nakanodent-sp-en.png", "alt_or_title": "Nakano dental clinic"}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr__logo-mark.svg", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr__image-sp.webp", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr__image-pc.webp", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/map-icon.svg", "alt_or_title": "アクセス"}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/clock-icon.svg", "alt_or_title": "時計"}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/calendar-icon.svg", "alt_or_title": "カレンダー"}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/web-icon.svg", "alt_or_title": "パソコンとメール"}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/tel-brown-icon.svg", "alt_or_title": "電話で相談ご予約・お問い合わせ"}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/time-icon.svg", "alt_or_title": "初診Web予約"}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr-line-icon.svg", "alt_or_title": "LINE"}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr-mail-icon.svg", "alt_or_title": "メール"}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr-formass-icon.svg", "alt_or_title": "メール"}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/sub-gnav-logo-pc-re.svg", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/blog/archives/6400/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/gnav-home.svg", "alt_or_title": "Home"}]
+---
+
+##
+*虫*歯予防に効く自宅ケア
+
+「新発見！歯科医師が教える、虫歯予防に効果絶大な自宅ケア法とは？???」
+
+①正しい歯磨きを徹底しましょう：毎日の歯磨きは虫歯予防の基本です。歯磨きは朝晩2回、2分間を目安に行いましょう。歯ブラシは柔らかめのものを選び、歯と歯茎の境目や歯の裏側も忘れずに磨きましょう。
+
+②デンタルフロスや歯間ブラシを使用しましょう：歯ブラシだけでは磨き残しが生じることがあります。デンタルフロスや歯間ブラシを使って、歯と歯の間の汚れや食物のカスをしっかり取り除きましょう。
+
+③歯医者の定期検診を受けましょう：自宅でのケアだけでは完全に虫歯予防はできません。定期的に歯医者の検診を受けることで、早期に虫歯や歯周病の兆候を発見し、適切な治療を受けることができます。
+
+④歯に優しい食事を心掛けましょう：砂糖や甘い飲み物は虫歯の原因となりますので、摂りすぎには注意しましょう。また、カルシウムやビタミンを多く含む食品（乳製品、野菜、魚など）をバランスよく摂ることで、歯を強くすることができます。
+
+⑤デンタルリンスを使用しましょう：歯磨きだけでは届きにくい歯の奥や歯茎のケアには、デンタルリンスが役立ちます。デンタルリンスを使って、口の中をさっぱり清潔に保ちましょう。
+
+これらの自宅ケア法を実践することで、虫歯のリスクを大幅に減らすことが可能です。

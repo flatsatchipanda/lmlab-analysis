@@ -1,0 +1,41 @@
+--- 
+url: https://nakanodent.com/blog/archives/category/all-on-4/
+method: Trafilatura
+status: OK
+media: [{"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/mv-pc.webp", "alt_or_title": "中野浩輔のステキな笑顔"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/mv-sp.webp", "alt_or_title": "中野浩輔のステキな笑顔"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/uploads/2026/03/IMG_3675-1125x1500.jpeg", "alt_or_title": ""}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/uploads/2026/04/IMG_4202-1500x1125.jpeg", "alt_or_title": ""}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/uploads/2025/04/AdobeStock_521065697-1500x844.jpeg", "alt_or_title": ""}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/uploads/2025/04/79006921722d05ffa912f94bef8de328-1000x1500.png", "alt_or_title": ""}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/uploads/2026/03/IMG_3708-1500x1125.jpeg", "alt_or_title": ""}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/uploads/2026/03/IMG_3679-1125x1500.jpeg", "alt_or_title": ""}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://images.immediate.co.uk/production/volatile/sites/10/2020/02/2048x1365-Grow-Guide-Olive-tree-LI3098916-2f85ea0.jpg", "alt_or_title": ""}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/uploads/2026/02/b38a6ca7ce4c48e26a89d519f1ac8e5b-1125x1500.jpeg", "alt_or_title": ""}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/sidebar-image01.webp", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/sidebar-image02.webp", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック 院長「中野浩輔」"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/sidebar-icon01.webp", "alt_or_title": "X（旧ツイッター）"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/sidebar-icon02.webp", "alt_or_title": "Instagram"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/sidebar-icon03.webp", "alt_or_title": "TikTok"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/sidebar-icon04.webp", "alt_or_title": "Youtube"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/sidebar-banner.webp", "alt_or_title": "採用情報"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/side-mail.svg", "alt_or_title": "Mail"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/blog/wp-content/themes/ndc__dr/images/side-line.svg", "alt_or_title": "LINE"}]
+common: [{"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/img/site-logo-sp.png", "alt_or_title": "Logo"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/img/nakanodent-sp-re.png", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/img/nakanodent-sp-en.png", "alt_or_title": "Nakano dental clinic"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr__logo-mark.svg", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr__image-sp.webp", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr__image-pc.webp", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/map-icon.svg", "alt_or_title": "アクセス"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/clock-icon.svg", "alt_or_title": "時計"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/calendar-icon.svg", "alt_or_title": "カレンダー"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/web-icon.svg", "alt_or_title": "パソコンとメール"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/tel-brown-icon.svg", "alt_or_title": "電話で相談ご予約・お問い合わせ"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/time-icon.svg", "alt_or_title": "初診Web予約"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr-line-icon.svg", "alt_or_title": "LINE"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr-mail-icon.svg", "alt_or_title": "メール"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr-formass-icon.svg", "alt_or_title": "メール"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/sub-gnav-logo-pc-re.svg", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/blog/archives/category/all-on-4/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/gnav-home.svg", "alt_or_title": "Home"}]
+---
+
+## 岡山なかの歯科・矯正歯科クリニックのオールオン４
+
+### 静脈内鎮静法から笑気麻酔でのオールオンフォー
+
+岡山でインプラント治療、特にオールオンフォー治療を検討されている患者さんから、最近非常に多く頂くご質問があります。それは…
+
+### ストローマンインプラントフォーラム2026
+
+ストローマンインプラントフォーラム2026この土日は東京で開催されたストローマンインプラントフォーラム2026に参加して…
+
+### オールオンフォーで人生が変わる5つの瞬間 ―歯を取り戻すことは、人生を取り戻すこと―
+
+オールオンフォーで人生が変わる5つの瞬間―歯を取り戻すことは、人生を取り戻すこと―こんにちは。岡山なかの歯科・矯正歯科ク…
+
+### 静脈内鎮静下で今年10回目のオールオンフォー手術を行いました｜患者さんの負担を減らすインプラント治療を目指して
+
+静脈内鎮静下で今年10回目のオールオンフォー手術を行いました｜患者さんの負担を減らすインプラント治療を目指してこんにちは…
+
+### 2026年3月5日最強の開運日、だからこそ私はインプラントの勉強を続ける！
+
+こんにちは。岡山なかの歯科・矯正歯科クリニック院長の中野浩輔です。2026年3月5日は、日本の暦の上でもとても特別な日で…
+
+### 福岡のインプラントクリニック見学で学んだ「笑気麻酔」という新しい選択肢
+
+福岡のインプラントクリニック見学で学んだ「笑気麻酔」という新しい選択肢こんにちは。岡山市北区の 岡山なかの歯科・矯正歯…
+
+### 今年8回目のオールオンフォーのオペと、平和の象徴オリーブの木
+
+こんにちは。岡山市の岡山なかの歯科・矯正歯科クリニック院長の中野浩輔です。本日は、今年に入って8回目のオールオンフォーの…
+
+### メルボルン オールオンフォー ザイゴマインプラント ラスト
+
+アレックス先生のセミナーはかなりハードスケジュールである。朝はメルボルンのダウンタウンからUberで60分かかる診療室に…

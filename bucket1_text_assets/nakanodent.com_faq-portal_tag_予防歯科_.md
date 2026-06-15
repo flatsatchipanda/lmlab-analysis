@@ -1,0 +1,83 @@
+--- 
+url: https://nakanodent.com/faq-portal/tag/予防歯科/
+method: Trafilatura
+status: OK
+media: [{"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/faq-portal/wp-content/themes/blog-renew/images/icon_faq02.svg", "alt_or_title": "診療について"}, {"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/faq-portal/wp-content/themes/blog-renew/images/icon_faq11.svg", "alt_or_title": "きれいな歯"}, {"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/faq-portal/wp-content/themes/blog-renew/images/icon_faq12.svg", "alt_or_title": ""}]
+common: [{"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/img/site-logo-sp.png", "alt_or_title": "Logo"}, {"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/img/nakanodent-sp-re.png", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/img/nakanodent-sp-en.png", "alt_or_title": "Nakano dental clinic"}, {"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr__logo-mark.svg", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr__image-sp.webp", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr__image-pc.webp", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/map-icon.svg", "alt_or_title": "アクセス"}, {"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/clock-icon.svg", "alt_or_title": "時計"}, {"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/calendar-icon.svg", "alt_or_title": "カレンダー"}, {"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/web-icon.svg", "alt_or_title": "パソコンとメール"}, {"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/tel-brown-icon.svg", "alt_or_title": "電話で相談ご予約・お問い合わせ"}, {"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/time-icon.svg", "alt_or_title": "初診Web予約"}, {"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr-line-icon.svg", "alt_or_title": "LINE"}, {"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr-mail-icon.svg", "alt_or_title": "メール"}, {"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr-formass-icon.svg", "alt_or_title": "メール"}, {"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/sub-gnav-logo-pc-re.svg", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/faq-portal/tag/予防歯科/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/gnav-home.svg", "alt_or_title": "Home"}]
+---
+
+Home
+医院案内
+理念・基本方針
+院長紹介
+スタッフ紹介
+院内紹介
+治療機器・設備
+治療費用・支払い方法
+アクセス
+当院の取り組み
+診療案内
+一般歯科
+予防歯科
+小児歯科
+小児矯正
+矯正歯科
+インプラント治療
+審美歯科
+顎関節治療
+訪問歯科診療
+その他 特殊治療
+ご案内
+初診の方へ
+妊婦の方へ
+アレルギーのある方へ
+ご高齢の方へ
+CT撮影される方へ
+治療が終了した患者様へ
+ご相談
+予約確認サービス
+LINEで簡単！歯の相談
+歯並び矯正 無料相談会
+無料メール相談
+資料請求フォーム
+講演・取材依頼
+歯の知恵袋
+ブログ
+岡山なかの歯科・矯正歯科クリニック
+086-256-4618
+初診Web予約
+Home
+医院案内
+Clinic
+診療案内
+Medical
+ご案内
+Guidance
+ご相談
+Contact
+歯の知恵袋
+Q&A
+ブログ
+Blog
+診療について
+費用・保険
+医院案内
+初診の所要時間は
+どのくらいですか？
+虫歯は放っておくと
+どうなりますか？
+岡山なかの歯科・矯正歯科クリニック
+歯の知恵袋
+予防歯科
+このタグの投稿はありません。
+Q＆AのTOPにもどる
+TOP
+TOP
+Web予約
+電話
+無料LINE相談
+サイトメニュー
+医院案内
+診療案内
+患者様へのご案内
+お問い合わせ・ご相談

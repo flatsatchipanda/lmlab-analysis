@@ -1,0 +1,26 @@
+--- 
+url: https://nakanodent.com/c-ndc/efforts/medical-dx/
+method: Trafilatura
+status: OK
+media: [{"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/img/logo_pc.webp", "alt_or_title": "医療DX体制・明細書発行｜岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/img/site-logo-sp.png", "alt_or_title": "Logo"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/img/nakanodent-sp-re.png", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/img/nakanodent-sp-en.png", "alt_or_title": "Nakano dental clinic"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/img/medical-dx_pc.webp", "alt_or_title": "医療DX体制・明細書発行｜岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/img/medical-dx_sp.webp", "alt_or_title": "医療DX体制・明細書発行｜岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/renew/wp-content/uploads/2026/05/mynum-dx.webp", "alt_or_title": "マイナ受付対応しています"}]
+common: [{"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/renew/wp-content/themes/originalstyle-1column_04/img/side01.png", "alt_or_title": "初診WEB予約"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/renew/wp-content/themes/originalstyle-1column_04/img/side02.png", "alt_or_title": "LINE相談"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/renew/wp-content/themes/originalstyle-1column_04/img/side03-re.png", "alt_or_title": "資料請求"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/renew/wp-content/themes/originalstyle-1column_04/img/side03.png", "alt_or_title": "メール相談"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/renew/wp-content/themes/originalstyle-1column_04/img/side04.png", "alt_or_title": "岡山 なかの歯科クリニック Youtube"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr__logo-mark.svg", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr__image-sp.webp", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr__image-pc.webp", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/map-icon.svg", "alt_or_title": "アクセス"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/clock-icon.svg", "alt_or_title": "時計"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/calendar-icon.svg", "alt_or_title": "カレンダー"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/web-icon.svg", "alt_or_title": "パソコンとメール"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/tel-brown-icon.svg", "alt_or_title": "電話"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/time-icon.svg", "alt_or_title": "初診Web予約"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr-line-icon.svg", "alt_or_title": "LINE"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr-mail-icon.svg", "alt_or_title": "メール"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/ftr-formass-icon.svg", "alt_or_title": "メール"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/sub-gnav-logo-pc-re.svg", "alt_or_title": "岡山なかの歯科・矯正歯科クリニック"}, {"page_url": "https://nakanodent.com/c-ndc/efforts/medical-dx/", "type": "画像(img)", "media_url": "https://nakanodent.com/unit/images/gnav-home.svg", "alt_or_title": "Home"}]
+---
+
+### 明細書発行体制について
+
+当院では、医療の透明化や患者さまへの情報提供を推進する観点から、
+
+診療内容や使用した薬剤等を記載した明細書を無料で発行しております。
+
+###
+医療情報取得・医療DX
+
+推進体制について
+
+当院では、オンライン資格確認等システムにより取得した
+
+診療情報・薬剤情報等を活用し、質の高い医療提供に努めています。
+
+また、マイナ保険証の利用促進など医療DXを通じて、
+
+より良い診療環境の整備を進めています。
