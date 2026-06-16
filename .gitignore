@@ -1,2 +1,11 @@
 # Crawled site outputs
 crawled_data/
+
+# Secrets / credentials
+*_cookies.txt
+*.cookies.txt
+cookies.txt
+.env
+.env.*
+*_secret*
+*_credentials*
